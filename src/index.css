@@ -124,11 +124,18 @@ body {
   
 }
 .cont {
-  display: flex;
+   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
   flex-direction: column;
+  margin-top: 5%;
+  border-radius: 10px;
+  border: solid;
+  max-width: 318px;
+  border-width: 0px;
+  overflow: hidden;
+  margin-left: 40%;
   
  
   
